@@ -1,6 +1,7 @@
 # Blockchain Group Project README
 
-![Project Logo](logo.jpg)
+![Project Logo]<kbd><img src="logo.jpg" alt="Image Description" width="300" height="200"></kbd>
+
 
 Welcome to our Blockchain Group Project! This README file provides essential information about our project, including its topic, the tools and software we are using, a breakdown of the project plan, and key features.
 
