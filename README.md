@@ -32,7 +32,7 @@ TaskHarbor is developed within the scope of blockchain technology, leveraging it
 
 ## 2. Tools/Software
 
-### For Ethereum Blockchain Integration:
+### For Ethereum Blockchain Technology:
 
 1. **Smart Contract**: Self-executing contracts written in code, residing on the Ethereum blockchain, enabling trustless and automated task management in TaskHarbor.
 2. **Solidity**: A specialized programming language for creating smart contracts on Ethereum, used to define the rules and behavior of TaskHarbor's contract interactions.
