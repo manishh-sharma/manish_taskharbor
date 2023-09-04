@@ -21,7 +21,7 @@
 TaskHarbor is versatile tools that can be used for a wide range of purposes and can help individuals and organizations stay organized and productive. Here are some different uses of apps:- Daily Journel , Personal Task Management , Project Management , Daily Planning , Goal Tracking , Shopping Lists , Note-Taking , Collaborative Work , Travel Planning , Event Planning , Budgeting , Health and Wellness etc..
 
 
-## 1. Blockchain Integration
+##  Blockchain Integration
 
 TaskHarbor is developed within the scope of blockchain technology, leveraging its unique features to enhance security, transparency, and user trust:
 
