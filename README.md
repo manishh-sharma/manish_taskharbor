@@ -8,13 +8,11 @@ Welcome to our Blockchain Group Project! This README file provides essential inf
 
 1. [Project Topic](#project-topic)
 2. [Tools/Software](#toolssoftware)
-3. [Project Breakdown](#project-breakdown)
+3. [Project Breakdown/Contribution](#project-breakdown)
 4. [Key Features](#key-features)
-5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgements](#acknowledgements)
+5. [Usage](#usage)
+6. [References](#references)
+7. [Acknowledgements](#acknowledgements)
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
 **TaskHarbor** is a robust task management application meticulously designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow:
