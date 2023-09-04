@@ -9,7 +9,8 @@
 2. [Tools/Software](#toolssoftware)
 3. [Project Breakdown/Contribution](#project-breakdown)
 4. [Key Features](#key-features)
-5. [References](#references)
+5. <a name="references"> [References](#references)</a>
+
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
 **TaskHarbor** is a robust task management application that is designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow.
