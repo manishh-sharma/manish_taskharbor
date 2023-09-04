@@ -79,4 +79,25 @@ TaskHarbor's integration with blockchain technology highlights the project's inn
 
 These tools and software components collectively empower the development of TaskHarbor, enhancing its functionality, security, and user experience.
 
-...
+## 3. Project Breakdown
+
+Our project plan provides a precise breakdown of tasks, division of work, and team members' responsibilities, ensuring a systematic approach to development. Work is evenly distributed among team members.
+
+### Team Members and Responsibilities
+
+1. **Arpit Jain and Vishal Jain**:
+   - Front-End Development: Leveraging React, HTML, Bootstrap, and JavaScript, Arpit and Vishal will focus on creating a user-friendly and responsive front-end interface for TaskHarbor.
+   - Integration: They will work closely with the backend and blockchain teams to integrate the front end seamlessly.
+   - Bug Fixes and Workflow: Arpit and Vishal will address any bugs, optimize workflow processes, and refine the problem statement.
+   - Case Studies: They will explore various scenarios for improvement and suggest enhancements for TaskHarbor's functionality.
+
+2. **Manan Aggarwal**:
+   - Blockchain Technology: Manan will be dedicated to working with Ethereum blockchain technologies, including Solidity, Remix IDE, and MetaMask.
+   - Smart Contracts: He will develop and test smart contracts to ensure the secure and efficient execution of TaskHarbor's blockchain interactions.
+
+3. **Manish Kumar Sharma**:
+   - Back-End Development: Manish will lead the back-end development efforts, utilizing Node.js and Express.js to create a robust and efficient server for TaskHarbor.
+   - API Integration: He will ensure seamless communication between the front-end and back-end components.
+   - Database Management: Manish will manage data storage and retrieval, optimizing the performance of the application.
+
+This collaborative approach ensures that each team member contributes their expertise to the project's success, with clear responsibilities and technologies assigned to their respective areas.
