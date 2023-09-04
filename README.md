@@ -17,20 +17,6 @@ Welcome to our Blockchain Group Project! This README file provides essential inf
 
 **TaskHarbor** is a robust task management application meticulously designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow:
 
-### Key Features
-
-1. **Update a Task**: Easily modify task details, including descriptions, due dates, and priority levels. Adapt to changing circumstances with flexibility and precision.
-
-2. **Create a Task**: The core functionality of TaskHarbor revolves around task creation. Quickly add new tasks, assign names, set deadlines, and include relevant notes to maintain meticulous organization.
-
-3. **View the Task**: Access a clear and concise overview of all your tasks, including task names, due dates, and completion status. Stay informed and make informed decisions about your priorities.
-
-4. **Get Status of the Task**: The "Task Status" feature provides real-time insights into task progress, helping you identify pending, in-progress, and completed tasks. Maintain a clear understanding of your project's status.
-
-5. **Delete a Task**: Streamline your task list by effortlessly removing tasks that are no longer relevant. Keep your workspace organized and clutter-free by eliminating completed tasks.
-
-6. **Wallet Integration**: TaskHarbor offers seamless integration with MetaMask, allowing you to monitor recent Ethereum transactions and check your Ethereum balance without leaving the application.
-
 ### Blockchain Integration
 
 TaskHarbor is developed within the scope of blockchain technology, leveraging its unique features to enhance security, transparency, and user trust:
@@ -101,3 +87,18 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
    - Database Management: Manish will manage data storage and retrieval, optimizing the performance of the application.
 
 This collaborative approach ensures that each team member contributes their expertise to the project's success, with clear responsibilities and technologies assigned to their respective areas.
+
+### Key Features
+
+1. **Update a Task**: Easily modify task details, including descriptions, due dates, and priority levels. Adapt to changing circumstances with flexibility and precision.
+
+2. **Create a Task**: The core functionality of TaskHarbor revolves around task creation. Quickly add new tasks, assign names, set deadlines, and include relevant notes to maintain meticulous organization.
+
+3. **View the Task**: Access a clear and concise overview of all your tasks, including task names, due dates, and completion status. Stay informed and make informed decisions about your priorities.
+
+4. **Get Status of the Task**: The "Task Status" feature provides real-time insights into task progress, helping you identify pending, in-progress, and completed tasks. Maintain a clear understanding of your project's status.
+
+5. **Delete a Task**: Streamline your task list by effortlessly removing tasks that are no longer relevant. Keep your workspace organized and clutter-free by eliminating completed tasks.
+
+6. **Wallet Integration**: TaskHarbor offers seamless integration with MetaMask, allowing you to monitor recent Ethereum transactions and check your Ethereum balance without leaving the application.
+
