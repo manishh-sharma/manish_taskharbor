@@ -11,8 +11,7 @@ Welcome to our Blockchain Group Project! This README file provides essential inf
 2. [Tools/Software](#toolssoftware)
 3. [Project Breakdown/Contribution](#project-breakdown)
 4. [Key Features](#key-features)
-5. [Usage](#usage)
-6. [References](#references)
+5. [References](#references)
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
 **TaskHarbor** is a robust task management application that is designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow.
@@ -96,3 +95,10 @@ This collaborative approach ensures that each team member contributes their expe
 
 6. **Wallet Integration**: TaskHarbor offers seamless integration with MetaMask, allowing you to monitor recent Ethereum transactions and check your Ethereum balance without leaving the application.
 
+## 5. References
+
+1. https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
+2. https://www.flexmind.co/to-do-list-using-ethereum-2/
+3. https://medium.com/unitechie/build-todo-application-in-react-and-solidity-538ef2f1f54f
+4. https://ethereum.org/en/developers/docs/smart-contracts/
+5. https://101blockchains.com/how-to-build-a-blockchain-app/
