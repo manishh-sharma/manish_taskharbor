@@ -15,7 +15,8 @@ Welcome to our Blockchain Group Project! This README file provides essential inf
 6. [References](#references)
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
-**TaskHarbor** is a robust task management application that is designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow:
+**TaskHarbor** is a robust task management application that is designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow.
+The problem statement for TaskHarbor is to address the inefficiencies and lack of transparency in traditional task management systems. In many existing task management platforms, users face issues related to trust, accountability, and data security. With TaskHarbor, we aim to leverage blockchain technology to create a secure, decentralized, and transparent task management system. This system will empower users to manage tasks, collaborate with others, and track progress in a way that ensures trust and immutability of task-related data, ultimately enhancing productivity and accountability in task management processes.
 
 ## 1. Blockchain Integration
 
