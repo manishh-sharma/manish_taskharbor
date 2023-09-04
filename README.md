@@ -33,35 +33,26 @@ TaskHarbor's integration with blockchain technology highlights the project's inn
 
 ## 2. Tools/Software
 
+### For Ethereum Blockchain Integration:
+
+1. **Smart Contract**: Self-executing contracts written in code, residing on the Ethereum blockchain, enabling trustless and automated task management in TaskHarbor.
+2. **Solidity**: A specialized programming language for creating smart contracts on Ethereum, used to define the rules and behavior of TaskHarbor's contract interactions.
+3. **Remix IDE**: A web-based development environment facilitating the creation, testing, and deployment of smart contracts for TaskHarbor on the Ethereum blockchain.
+4. **MetaMask**: A browser extension and wallet serving as the gateway for TaskHarbor users to securely manage their Ethereum-based transactions and interactions.
+5. **Ganache**: A local blockchain emulator and development tool, providing a controlled environment for testing TaskHarbor's smart contracts and ensuring their reliability.
+
 ### For Client Side:
 
-1. **React**: A powerful JavaScript library for creating dynamic and interactive user interfaces, enabling seamless task management in TaskHarbor through responsive and engaging web components.
-
-2. **HTML (Hypertext Markup Language)**: The foundational markup language for structuring web pages, defining the structure and content of TaskHarbor's user interface.
-
-3. **Bootstrap**: An open-source front-end framework simplifying the design of TaskHarbor's responsive and visually appealing web pages, utilizing pre-designed components for efficiency.
-
-4. **JavaScript**: A versatile programming language enabling the creation of dynamic features within TaskHarbor, enhancing user interactions and content manipulation.
+6. **React**: A powerful JavaScript library for creating dynamic and interactive user interfaces, enabling seamless task management in TaskHarbor through responsive and engaging web components.
+7. **HTML (Hypertext Markup Language)**: The foundational markup language for structuring web pages, defining the structure and content of TaskHarbor's user interface.
+8. **Bootstrap**: An open-source front-end framework simplifying the design of TaskHarbor's responsive and visually appealing web pages, utilizing pre-designed components for efficiency.
+9. **JavaScript**: A versatile programming language enabling the creation of dynamic features within TaskHarbor, enhancing user interactions and content manipulation.
 
 ### For Server Side:
 
-5. **Node.js**: A runtime environment for executing server-side JavaScript code, powering TaskHarbor's backend with scalability and high performance.
-
-6. **Express.js**: A minimal and flexible Node.js framework streamlining the handling of HTTP requests, routing, and middleware for TaskHarbor's web application.
-
-7. **Postman**: A collaboration platform for testing TaskHarbor's API functionality, ensuring smooth and reliable communication between client and server components.
-
-### For Ethereum Blockchain Integration:
-
-8. **Smart Contract**: Self-executing contracts written in code, residing on the Ethereum blockchain, enabling trustless and automated task management in TaskHarbor.
-
-9. **Solidity**: A specialized programming language for creating smart contracts on Ethereum, used to define the rules and behavior of TaskHarbor's contract interactions.
-
-10. **Remix IDE**: A web-based development environment facilitating the creation, testing, and deployment of smart contracts for TaskHarbor on the Ethereum blockchain.
-
-11. **MetaMask**: A browser extension and wallet serving as the gateway for TaskHarbor users to securely manage their Ethereum-based transactions and interactions.
-
-12. **Ganache**: A local blockchain emulator and development tool, providing a controlled environment for testing TaskHarbor's smart contracts and ensuring their reliability.
+10. **Node.js**: A runtime environment for executing server-side JavaScript code, powering TaskHarbor's backend with scalability and high performance.
+11. **Express.js**: A minimal and flexible Node.js framework streamlining the handling of HTTP requests, routing, and middleware for TaskHarbor's web application.
+12. **Postman**: A collaboration platform for testing TaskHarbor's API functionality, ensuring smooth and reliable communication between client and server components.
 
 These tools and software components collectively empower the development of TaskHarbor, enhancing its functionality, security, and user experience.
 
