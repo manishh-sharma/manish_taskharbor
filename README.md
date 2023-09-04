@@ -9,7 +9,7 @@
 2. [Tools/Software](#toolssoftware)
 3. [Project Breakdown/Contribution](#project-breakdown)
 4. [Key Features](#key-features)
-5. [References](#references) <a name="references"></a>
+5. [References](#references)
 
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
@@ -88,8 +88,8 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
 
 ## 5. References
 
-[1. https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
+1. https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
 2. https://www.flexmind.co/to-do-list-using-ethereum-2/
 3. https://medium.com/unitechie/build-todo-application-in-react-and-solidity-538ef2f1f54f
 4. https://ethereum.org/en/developers/docs/smart-contracts/
-5. https://101blockchains.com/how-to-build-a-blockchain-app/](#references)
+5. https://101blockchains.com/how-to-build-a-blockchain-app/
