@@ -9,7 +9,7 @@
 2. [Tools/Software](#toolssoftware)
 3. [Project Breakdown/Contribution](#project-breakdown)
 4. [Key Features](#key-features)
-5. <a name="references"> [References](#references)</a>
+5. [References](#references) <a name="references"></a>
 
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
