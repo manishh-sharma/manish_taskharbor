@@ -85,7 +85,7 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
 5. **Delete a Task**: Streamline your task list by effortlessly removing tasks that are no longer relevant. Keep your workspace organized and clutter-free by eliminating completed tasks.
 6. **Wallet Integration**: TaskHarbor offers seamless integration with MetaMask, allowing you to monitor recent Ethereum transactions and check your Ethereum balance without leaving the application.
 
-
+[Link Text](#references)
 ## 5. References
 
 1. https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
