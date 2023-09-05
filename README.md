@@ -13,12 +13,11 @@
 
 ## 1. Project Topic: TaskHarbor - Task Management Application
 
-**Problem Statement** :-TaskHarbor is going to be develop to address the inefficiencies and lack of transparency in traditional task management systems. In many existing task management platforms, users face issues related to trust, accountability, and data security. 
+**Problem Statement** :- Our project  **Taskharbor** is being developed to address the inefficiencies and lack of transparency in traditional task management systems. In many existing task management platforms, users face issues related to trust, accountability, and data security. 
 
 **TaskHarbor** is a robust task management application that is designed to cater to your organizational needs. This project offers a comprehensive set of features to enhance task management and streamline your workflow.
 
-TaskHarbor is versatile tools that can be used for a wide range of purposes and can help individuals and organizations stay organized and productive. Here are some different uses of apps:- **Daily Journel , Personal Task Management , Project Management , Daily Planning , Goal Tracking , Shopping Lists , Note-Taking , Collaborative Work , Travel Planning , Event Planning , Budgeting , Health and Wellness** etc..
-
+TaskHarbor is versatile tools that can be used for a wide range of purposes and can help individuals and organizations stay organized and productive. Here are some different uses of apps:- **Daily Journel , Personal Task Management , Project Management , Daily Planning , Goal Tracking , Shopping Lists , Note-Taking , Collaborative Work , Travel Planning , Event Planning , Budgeting , Health and Wellness** etc.
 
 ##  Blockchain Integration
 
