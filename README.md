@@ -68,6 +68,8 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
 2. **Manan Aggarwal**:
    - Blockchain Technology: Manan will be dedicated to work with Ethereum blockchain technologies, including Solidity, Remix IDE, and MetaMask.
    - Smart Contracts: He will develop and test smart contracts to ensure the secure and efficient execution of TaskHarbor's blockchain interactions.
+   - Blockchain Integration: he ensure smooth integration by creating APIs and connectors to link traditional databases and software with blockchain networks.
+   - Wallet Development: He will implement secure cryptocurrency wallets for users to store and manage their digital assets.
 
 3. **Manish Kumar Sharma**:
    - Back-End Development: Manish will lead the back-end development efforts, utilizing Node.js and Express.js to create a robust and efficient server for TaskHarbor.
