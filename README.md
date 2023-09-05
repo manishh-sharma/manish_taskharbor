@@ -90,6 +90,7 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
 3. https://medium.com/unitechie/build-todo-application-in-react-and-solidity-538ef2f1f54f
 4. https://ethereum.org/en/developers/docs/smart-contracts/
 5. https://101blockchains.com/how-to-build-a-blockchain-app/
+6. https://klient.com/blog/5-problems-teams-have-with-to-do-lists-and-how-project-management-software-can-help/
 
    
 
