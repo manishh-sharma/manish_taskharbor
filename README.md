@@ -66,8 +66,8 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
    - Case Studies: They will explore various scenarios for improvement and suggest enhancements for TaskHarbor's functionality.
 
 2. **Manan Aggarwal**:
-   - Blockchain Technology: Manan will be dedicated to work with Ethereum blockchain technologies, including Solidity, Remix IDE, and MetaMask.
-   - Smart Contracts: He will develop and test smart contracts to ensure the secure and efficient execution of TaskHarbor's blockchain interactions.
+   - Blockchain Technology: Manan will be dedicated to work with Ethereum blockchain technologies.
+   - Smart Contracts:He will develop smart contract in solidity and test using Remix IDE to ensure the secure & efficient execution of TaskHarbor's blockchain interactions.
    - Blockchain Integration: He will ensure smooth integration by creating APIs and connectors to link traditional databases and software with blockchain networks.
    - Wallet Development: He will implement secure cryptocurrency wallets for users to store and manage their digital assets using MetaMask.
 
