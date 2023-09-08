@@ -93,7 +93,8 @@ Our project plan provides a precise breakdown of tasks, division of work, and te
 4. https://ethereum.org/en/developers/docs/smart-contracts/
 5. https://101blockchains.com/how-to-build-a-blockchain-app/
 6. https://klient.com/blog/5-problems-teams-have-with-to-do-lists-and-how-project-management-software-can-help/
-
+7. https://crypticera.com/building-to-do-list-app-on-ethereum-blockchain/
+8. https://tarun-s.medium.com/a-todo-app-on-a-blockchain-using-ethereum-using-react-and-hooks-f4a751c40793
    
 
 
